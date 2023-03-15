@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<item></item>
+		<title>Novosti</title>
+		<link>https://lukacubrilo.github.io/DubCaffe/</link>
+		<description>Ovde pogledajte novosti o Caffe Dub-u.</description>
+		<item>
+			<title>Novosti</title>
+			<link>https://lukacubrilo.github.io/DubCaffe/</link>
+			<description>Sve novosti o Caffe Dub-u na jednom mestu.</description>
+		</item>
+	</channel>
+</rss>
+
+	

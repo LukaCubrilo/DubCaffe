@@ -75,7 +75,7 @@ nav li{
 }
 .text-bg{
 	text-align: center;
-	font-size: 50px;
+	font-size: 48px;
 	color: #E5E5CB;
 	animation: uvecanje 1s ease-in-out;
 	
@@ -84,9 +84,10 @@ nav li{
 .text-bg h1{
 	text-transform: uppercase;
 }
-.text-bg p{
-	font-weight: 400;
+.text-bg h2{
+	font-weight: 300;
 	font-style: italic;
+	
 }
 @keyframes uvecanje {
   0% {
